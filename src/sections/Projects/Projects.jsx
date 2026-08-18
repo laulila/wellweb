@@ -1,3 +1,4 @@
+import "./Projects.css";
 
 function Projects() {
   return (
@@ -30,6 +31,22 @@ function Projects() {
               E-commerce desarrollado con React y Firebase,
               con catálogo, búsqueda, carrito y administración.
             </p>
+          </article>
+
+          <article>
+            <h3>Vinoteca</h3>
+            <p>
+              Sitio web para una vinoteca, desarrollado con React,
+              con catálogo de productos y diseño responsive.
+            </p>
+
+            <a
+              href="https://vinoteca-peach.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Ver proyecto
+            </a>
           </article>
         </div>
       </div>
